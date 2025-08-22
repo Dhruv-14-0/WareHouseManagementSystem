@@ -1,4 +1,4 @@
-package com.gatewaydigital.warewhousemanagementsystem;
+package com.gatewaydigital.warehousemanagementsystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
